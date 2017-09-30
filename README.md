@@ -1,6 +1,6 @@
 ## JS + CSS Clock
 
-This is the second thing I made following the (30 Day Vanilla JS Coding Challenge)[https://javascript30.com/]. This course is duly, highly recommended! The promise of the course is to build 30 different tiny projects, with the following characteristics:
+This is the second thing I made following the [30 Day Vanilla JS Coding Challenge](https://javascript30.com). This course is duly, highly recommended! The promise of the course is to build 30 different tiny projects, with the following characteristics:
 
 - No Frameworks
 - No Compilers
@@ -15,6 +15,11 @@ This is the second thing I made following the (30 Day Vanilla JS Coding Challeng
 ## Demo
 
 https://capex.github.io/jsClock/
+
+## Credits
+
+- [Unsplash.it](http://unsplash.it)
+- [Javascript30](http://Javascript30.com)
 
 ## License 
 
