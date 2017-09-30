@@ -16,3 +16,7 @@ No Boilerplate
 
 https://capex.github.io/jsClock/
 
+## License 
+
+MIT.
+
